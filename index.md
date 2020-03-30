@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: управление светом
 ---
 
 <a class="btn btn-primary" href="http://blynk-cloud.com/7a4a3b8ebf7e45dd87e834d9f08dded6/update/V6?value=1">ВЫКЛ ВСЁ</a>
